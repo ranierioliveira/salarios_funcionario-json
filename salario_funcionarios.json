@@ -1,0 +1,42 @@
+[
+    {
+        "nome_funcionario": "Roberto Almeida",
+        "salario": 3100.0
+    },
+    {
+        "nome_funcionario": "Carlos Santos",
+        "salario": 3200.0
+    },
+    {
+        "nome_funcionario": "Maria Oliveira",
+        "salario": 4500.0
+    },
+    {
+        "nome_funcionario": "Thiago Rocha",
+        "salario": 4600.0
+    },
+    {
+        "nome_funcionario": "Lucas Lima",
+        "salario": 4800.0
+    },
+    {
+        "nome_funcionario": "Ana Pereira",
+        "salario": 5000.0
+    },
+    {
+        "nome_funcionario": "Mariana Ferreira",
+        "salario": 5200.0
+    },
+    {
+        "nome_funcionario": "Sofia Costa",
+        "salario": 6000.0
+    },
+    {
+        "nome_funcionario": "Juliana Mendes",
+        "salario": 6100.0
+    },
+    {
+        "nome_funcionario": "João Silva",
+        "salario": 8000.0
+    }
+]
